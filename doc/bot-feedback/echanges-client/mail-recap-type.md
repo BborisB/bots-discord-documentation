@@ -22,7 +22,7 @@ Voici un récapitulatif des principaux points abordés et des décisions prises 
 - [Remarque 1]
 - [Remarque 2]
 
-Si vous souhaitez ajouter ou modifier certains points, n’hésitez pas à nous le faire savoir.
+Si vous souhaitez ajouter ou modifier certains points, n'hésitez pas à nous le faire savoir.
 
 Nous restons à votre disposition pour toute question ou précision.
 
